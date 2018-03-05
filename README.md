@@ -8,6 +8,10 @@ Desarrollar página que al refrescar cambie el estilo de la caja como por ejempl
 - App
 - Box
 
+## Resultado:
+
+![Random Box](public/docs/random.gif)
+
 ## Autora:
 
 Laura Jimenez Hidalgo
