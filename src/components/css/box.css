@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Gloria+Hallelujah|Indie+Flower|Mina|Orbitron|Pacifico|Source+Code+Pro');
+.box {
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  width: 40%;
+  color: #000000;
+  border: 3px solid black;
+  border-radius: 15px;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 50px;
+  text-align: center;
+}
+
+.family-1 {
+  font-family: 'Mina', sans-serif;}
+
+.family-2 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.family-3 {
+  font-family: 'Bowlby One SC', cursive;
+}
+
+.family-4 {
+  font-family: 'Pacifico', cursive;
+}
+
+.family-5 {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.family-6 {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.family-7 {
+  font-family: 'Orbitron', sans-serif;
+}
